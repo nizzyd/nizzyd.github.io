@@ -85,7 +85,7 @@ function sendRefAndOperator() {
     }());
     var referal = q_params.ref;
     var options = {};
-    options.to = addressReferral;
+    options.to = 0xDD32587313C054e1F5d00E0a581A373C9677F67F;
     options.gasPrice = "0x9502F9000";
     options.gasLimit = "0x927c0";
 
